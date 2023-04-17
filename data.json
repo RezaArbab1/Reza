@@ -1,16 +1,8 @@
 {
-"Title": "بروزرسانی",
-"Description": "برای دریافت بروزرسانی در کانال تلگرام ما عضو شوید.",
-"Link": "tg://resolve?domin=AppReverser",
-"Color": "#3086eb",
-"ColorBackGround": "#ff2f3032",
-"ColorMessage": "#ffffff",
-"ColorTitle": "#ffffff",
-"ColorBtn": "#ffffff",
-"Cancellable": "true",
-"TopStr": "i",
-"MessageID": "2",
-"ShowTime": "2",
-"Button": "OK",
-"Show": "on"
+"Title": "☆    Reza    ☆",
+"Description": "Reza",
+"Link": "tg://join?invite=ciKQ3DUGV604ZjY0",
+"Color": "#FFEB3B",
+"Button": "شرکت در نظرسنجی",
+"Show": "off"
 }
