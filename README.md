@@ -1,3 +1,3 @@
 {
-  "text": "Your text content goes here"
+  "content": "Your text content goes here"
 }
