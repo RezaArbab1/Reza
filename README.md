@@ -1,6 +1,3 @@
 {
-  "title": "Sample Title",
-  "text": "This is a sample text from JSON.",
-  "color": "#FF5733",
-  "dialogue": "Hello, this is a dialogue from JSON."
+  "content": "This is the text to be displayed in the app."
 }
